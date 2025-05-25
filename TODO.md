@@ -7,18 +7,18 @@
 
 ### Day 1-2: Concept Development
 - [x] Brainstorm game concepts that align with "better future" theme
-  - [x] Teaching code as an adventure game
-  - [x] Bike repair as a puzzle
+  - [x] Learning about environmental problems and how to reduce them as a team
 - [x] Choose primary focus area:
   - [x] Overcoming obstacles to create better future
   - [x] Educational game (computer literacy, handiwork, cooking, etc.)
-  - [X] Strategies for working together/rebuilding
+  - [x] Strategies for working together/rebuilding
   - [ ] Fictional characters living happily in future
 - [x] Define target audience and platform
   - [x] Middle School Students
 - [x] Decide on game medium (digital/physical/zine)
-- [x] Digital Text Adventure
-- [ ] Ensure at least 1 hopeful outcome/ending is planned
+  - [x] Digital text
+- [x] Ensure at least 1 hopeful outcome/ending is planned
+  - [x] Better healthier futur
 
 ### Day 3-4: Technical Setup & Design
 - [x] Choose game engine/platform:
@@ -28,13 +28,12 @@
   - [ ] Physical game materials
 - [x] Create game design document outlining:
   - [ ] Core gameplay mechanics
-    - [ ] Text adventure that allows users to explore a ruined library
-    - [ ] 
-  - [x] Story structure/narrative flow
+    - [ ] Text adventure that lets people have a deeper undestanding of the nature and to interact with anything causing pollution
+  - [x] Story structure/narrative flow with interactions
   - [x] Art style requirements
-    - [ ] Text Based with occasional art
+    - [x] Text Based with occasional art
     - [ ] Sound/music needs
-    - [ ] Clasic ambiant music and sound effects
+    - [x] Clasic ambiant music and sound effects
 - [ ] Set up development environment
 - [ ] Create project folder structure
 
