@@ -11,7 +11,7 @@
 - [x] Choose primary focus area:
   - [x] Overcoming obstacles to create better future
   - [x] Educational game (computer literacy, handiwork, cooking, etc.)
-  - [x] Strategies for working together/rebuilding
+  - [ ] Strategies for working together/rebuilding
   - [ ] Fictional characters living happily in future
 - [x] Define target audience and platform
   - [x] Middle School Students
@@ -28,7 +28,7 @@
   - [ ] Physical game materials
 - [x] Create game design document outlining:
   - [ ] Core gameplay mechanics
-    - [ ] Text adventure that lets people have a deeper undestanding of the nature and to interact with anything causing pollution
+    - [x] Text adventure that lets people have a deeper undestanding of the nature and to interact with anything causing pollution
   - [x] Story structure/narrative flow with interactions
   - [x] Art style requirements
     - [x] Text Based with occasional art
@@ -38,12 +38,12 @@
 - [ ] Create project folder structure
 
 ### Day 5-7: Pre-Production
-- [ ] Write detailed story outline/script
+- [x] Write detailed story outline/script
 - [ ] Create character descriptions (if applicable)
 - [ ] Design UI/UX mockups
 - [ ] Plan asset requirements (art, sound, etc.)
 - [ ] Create development timeline for Week 2
-- [ ] Test basic functionality in chosen platform
+- [x] Test basic functionality in chosen platform
 
 ## Week 2: Production & Polish (Days 8-14)
 
