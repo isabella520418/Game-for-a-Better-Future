@@ -29,7 +29,7 @@
 - [x] Create game design document outlining:
   - [ ] Core gameplay mechanics
     - [x] Text adventure that lets people have a deeper undestanding of the nature and to interact with anything causing pollution
-  - [x] Story structure/narrative flow with interactions
+  - [x] Story structure/narrative
   - [x] Art style requirements
     - [x] Text Based with occasional art
     - [ ] Sound/music needs
