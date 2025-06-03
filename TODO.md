@@ -48,18 +48,18 @@
 ## Week 2: Production & Polish (Days 8-14)
 
 ### Day 8-10: Core Development
-- [ ] Implement main game mechanics
-- [ ] Create core story content/passages
-- [ ] Build basic user interface
+- [x] Implement main game mechanics
+- [x] Create core story content/passages
+- [x] Build basic user interface
 - [ ] Implement navigation/interaction systems
-- [ ] Add placeholder art/assets
+- [x] Add placeholder art/assets
 
 ### Day 11-12: Content & Assets
-- [ ] Finalize all written content
+- [x] Finalize all written content
 - [ ] Create/implement final art assets (avoiding AI-generated content)
 - [ ] Add sound effects/music (if applicable)
 - [ ] Implement multiple endings/outcomes
-- [ ] Test all story branches and interactions
+- [x] Test all story branches and interactions
 
 ### Day 13: Testing & Polish
 - [ ] Comprehensive playtesting
