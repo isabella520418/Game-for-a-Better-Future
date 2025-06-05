@@ -56,7 +56,7 @@
 
 ### Day 11-12: Content & Assets
 - [x] Finalize all written content
-- [ ] Create/implement final art assets (avoiding AI-generated content)
+- [x] Create/implement final art assets (avoiding AI-generated content)
 - [ ] Add sound effects/music (if applicable)
 - [ ] Implement multiple endings/outcomes
 - [x] Test all story branches and interactions
